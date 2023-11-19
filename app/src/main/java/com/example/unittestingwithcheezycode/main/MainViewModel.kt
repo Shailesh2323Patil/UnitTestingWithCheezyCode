@@ -1,4 +1,4 @@
-package com.example.unittestingwithcheezycode
+package com.example.unittestingwithcheezycode.main
 
 import android.content.Context
 import androidx.lifecycle.ViewModel

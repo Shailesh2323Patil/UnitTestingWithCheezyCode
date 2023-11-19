@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UnitTestingWithCheezyCode</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="firstActivity">First Activity</string>
 </resources>
